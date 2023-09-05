@@ -1,3 +1,16 @@
+*
+!/**/
+
+# Do not ignore these files
+
+!*.sh
+!*.md
+!Makefile
+!makefile
+!.gitognore
+!*.c
+!*.h
+
 # Prerequisites
 *.d
 
