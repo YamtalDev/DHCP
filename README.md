@@ -1,9 +1,9 @@
-## DHCP Server Project
+# DHCP Server Project
 
 This project implements a DHCP (Dynamic Host Configuration Protocol) server for managing IP address allocation within a network range. The DHCP server provides functions to create the server, allocate and free IP addresses, and count available (free) IP addresses. It efficiently handles scenarios like successful allocation, failed allocation, and double allocation attempts.
 
 
-# Project Description
+## Project Description
 
 The DHCP server project efficiently manages IP address allocation within a network range. It offers a clear and well-documented interface and supports various functionalities, including IP allocation, deallocation, and counting available IP addresses. The code structure is designed for maintainability and future updates.
 
